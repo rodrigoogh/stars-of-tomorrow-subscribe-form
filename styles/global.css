@@ -19,4 +19,6 @@
   --violet: #c3b2e7;
   --pink: #f682a5;
   --font: 'Poppins', sans-serif;
+  --text: 400 1rem/1.5 var(--font);
+  --text-sm: 400 0.875rem/1.4 var(--font);
 }
