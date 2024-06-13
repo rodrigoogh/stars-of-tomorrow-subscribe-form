@@ -22,3 +22,13 @@
   --text: 400 1rem/1.5 var(--font);
   --text-sm: 400 0.875rem/1.4 var(--font);
 }
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  overflow: hidden;
+}
