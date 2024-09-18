@@ -19,6 +19,7 @@
   --violet: #c3b2e7;
   --pink: #f682a5;
   --file-input-text-color: #a8a29e;
+  --text-muted: #78716c;
   --font: 'Poppins', sans-serif;
   --text: 400 1rem/1.5 var(--font);
   --text-sm: 400 0.875rem/1.4 var(--font);
@@ -44,4 +45,16 @@ h2 {
 img {
   max-width: 100%;
   height: auto;
+}
+
+.flex {
+  display: flex;
+}
+
+.flex-1 {
+  flex: 1;
+}
+
+.flex-2 {
+  flex: 2;
 }
